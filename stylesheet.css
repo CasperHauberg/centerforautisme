@@ -1,0 +1,202 @@
+@charset "utf-8";
+/* CSS Document */
+
+* { margin: 0px; }
+
+
+@media only screen and (max-width : 375px ){
+	
+	
+	header { 
+		width: 100%;
+		height: 120px;
+		background-color: #F1F1F1;
+		
+	}
+	
+	
+	
+	li {
+		margin: 8px 0px 8px 0px;
+	}
+	
+	.nava {
+		text-decoration: none;
+		color: #000000;
+		
+	}
+	
+	
+	
+	article { 
+		width: 100%;
+		margin: 40px 0px 40px 0px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		
+	
+	}
+	
+	img {
+		width: 300px;
+		height: auto;
+		margin: 24px 0px 24px 0px;
+	}
+	
+	h2 { font-size: 24px;
+		width: 288px;
+		margin: 16px 0px 16px 0px;
+		text-align: center;
+		
+	}
+	
+	h3 { 
+		width: 288px;
+		margin: 16px 0px 16px 0px;
+		
+	
+	}
+	
+	p { font-size: 16px;
+		width: 18em;
+		margin: 16px 0px 16px 0px;
+		line-height: 24px;
+		
+	}
+	
+	
+	
+	
+	#b1 {
+	background-color: #547DBD;
+	width: 240px;
+	margin: 16px 0px 16px 0px;
+	font-size: 16px;
+	color: #ffffff;
+	border-radius: 26px;
+	text-align:center;
+	text-decoration: none;
+}
+	#b2 {
+	background-color: #E32626;
+    width: 240px;
+	margin: 16px 0px 16px 0px;
+	font-size: 16px;
+	color: #ffffff;
+	border-radius: 26px;
+	text-align:center; 
+	text-decoration: none;
+
+}
+
+
+
+	#b3 {
+	background-color: #66B230;
+	width: 240px;
+	margin: 16px 0px 16px 0px;
+	font-size: 16px;
+	color: #ffffff;
+	border-radius: 26px;
+	text-align:center; 
+	text-decoration: none;
+
+}
+	#b4 {
+		background-color: #F5994A;
+	width: 240px;
+	margin: 16px 0px 16px 0px;
+	font-size: 16px;
+	color: #ffffff;
+	border-radius: 26px;
+	text-align:center;
+	text-decoration: none;
+}
+	#b5 {
+	background-color: #547DBD;
+    width: 240px;
+	margin: 16px 0px 16px 0px;
+	font-size: 16px;
+	color: #ffffff;
+	border-radius: 26px;
+	text-align:center;
+	text-decoration: none;
+}
+	
+#b6 {background-color: #E32626;
+    width: 240px;
+	margin: 16px 0px 16px 0px;
+	font-size: 16px;
+	color: #ffffff;
+	border-radius: 26px;
+	text-align:center;
+	text-decoration: none;
+
+}
+	
+
+#b7 {
+	background-color: #66B230;
+    width: 240px;
+	margin: 16px 0px 16px 0px;
+	font-size: 16px;
+	color: #ffffff;
+	border-radius: 26px;
+	text-align:center; 
+	text-decoration: none;
+}
+	
+	
+	
+	input { 
+		width: 240px;
+		margin: 8px 0px 8px 0px;}
+	
+	#signup { text-align: center;}
+	
+	.p4ps { margin: 8px 0px 8px 0px;}
+	
+	#linkkursus1 {background-color:#547DBD;
+	color: #FFFFFF;
+	text-align: center;
+	text-decoration: none;
+	font-size: 21px;
+	width: 240px;
+	height:24px;
+	border-radius: 26px;
+	margin: 16px 0px 16px 0px;
+	
+	}
+	
+	#linkkursus2 {background-color:#E32626;
+	color: #FFFFFF;
+	text-align: center;
+	text-decoration: none;
+	font-size: 21px;
+	width: 240px;
+	height:24px;
+	border-radius: 26px;
+	margin: 16px 0px 16px 0px;
+	
+	}
+	
+	#linkkursus3 {background-color:#547DBD;
+	color: #FFFFFF;
+	text-align: center;
+	text-decoration: none;
+	font-size: 21px;
+	width: 240px;
+	height:24px;
+	border-radius: 26px;
+	margin: 16px 0px 16px 0px;
+	
+	}
+	
+	.portrait { border-radius: 100%;}
+	
+	#textbox {
+		width: 240px;
+		margin: 8px 0px 8px 0px;}
+	
+}
