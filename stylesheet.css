@@ -9,15 +9,21 @@
 	
 	header { 
 		width: 100%;
-		height: 120px;
+		height: 264px;
 		background-color: #F1F1F1;
+		margin-bottom: 40px;
 		
 	}
 	
 	
 	
-	li {
-		margin: 8px 0px 8px 0px;
+	li  {
+		margin: 16px 0px 16px 0px;
+		font-size: 16px;
+		font-weight: bold;
+
+		list-style: none;
+		
 	}
 	
 	.nava {
@@ -181,7 +187,7 @@
 	
 	}
 	
-	#linkkursus3 {background-color:#547DBD;
+	#linkkursus3 {background-color:#66B230;
 	color: #FFFFFF;
 	text-align: center;
 	text-decoration: none;
@@ -200,3 +206,21 @@
 		margin: 8px 0px 8px 0px;}
 	
 }
+
+
+footer { 
+	
+width: 100%;
+height: 160px;	
+background-color: #F1F1F1;
+display: flex;
+flex-direction: row;
+justify-content:space-around;
+	align-content: center;
+
+
+}
+
+.SoMeIcon { 
+width: 64px;
+height: 64px;}
